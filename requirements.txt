@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pytesseract
+Pillow
+PyMuPDF
+google-cloud-aiplatform
+vertexai
