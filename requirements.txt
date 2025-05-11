@@ -5,3 +5,4 @@ Pillow
 PyMuPDF
 google-cloud-aiplatform
 vertexai
+python-multipart
